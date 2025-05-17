@@ -10,7 +10,6 @@ A threaded Python package installer that parallelizes downloads, builds, and ins
 ## Usage
 
 ```bash
-blakpip install -r requirements.txt
 blakpip install numpy pandas matplotlib
 ```
 
