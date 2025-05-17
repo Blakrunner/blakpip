@@ -3,5 +3,8 @@
 import sys
 from blakpip_core import install_packages
 
-if __name__ == "__main__":
+def main():
     install_packages(sys.argv[1:])
+
+if __name__ == "__main__":
+    main()
