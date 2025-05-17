@@ -3,6 +3,7 @@
 A threaded Python package installer that parallelizes downloads, builds, and installations—built as a wrapper around pip.
 
 **Author**: Blakrunner & Selena 
+
 **Version**: 0.1.0  
 **License**: MIT
 
